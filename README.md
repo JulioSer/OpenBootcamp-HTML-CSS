@@ -10,4 +10,4 @@ La carpeta Ejercicio31 contiene el ejercicio de la lección 3.
 
 La carpeta Ejercicio41 contiene el ejercicio de la lección 4.
 
-La carpeta Ejercicio51 contiene el ejercicio de la lección 4.
+La carpeta Ejercicio51 contiene el ejercicio de la lección 5.
